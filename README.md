@@ -1,5 +1,5 @@
-#Theta Pirates
-#Project 2- Selling Puts
+# Theta Pirates
+# Project 2- Selling Puts
 
 This project was designed to research the efficacy of RandomForest and LSTM RNN models with a variety of options portfolios overlaid on the underlying stock signals.  Predictions, analysis, and drawbacks are presented in the Project 2 powerpoint presentation.  
 
